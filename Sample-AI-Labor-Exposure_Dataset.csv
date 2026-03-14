@@ -1,0 +1,25 @@
+WorkActivityTitle,ImportanceRating,LevelRating,AIExposureLevel,Cluster,BrightOutlook,AI_Risk_Score,Skill_Intensity,RelativeImportance,Avg_AI_Risk,Max_AI_Risk,Avg_Importance,Bright_Count,AI_Vulnerability,Future_Proof_Score
+Getting Information,4.2,3.2,High,Business Info Mgmt,FALSE,12.6,13.44,0.029,8.524,15,3.874,24,High,1.48
+Monitoring Processes Materials or Surroundings,3.9,2.6,Medium,Leadership Ops,FALSE,7.8,10.14,0.026,8.524,15,3.874,24,High,1.48
+Inspecting Equipment Structures or Material,3.6,2.1,Low,Entrepreneurship,TRUE,3.6,7.56,0.024,8.524,15,3.874,24,High,1.48
+Identifying Objects Actions and Events,5,3.5,High,Business Info Mgmt,TRUE,15,17.5,0.034,8.524,15,3.874,24,High,1.48
+Communicating with Supervisors Peers or Subordinates,3.6,4,Medium,Regulation,TRUE,7.2,14.4,0.024,8.524,15,3.874,24,High,1.48
+Establishing and Maintaining Interpersonal Relationships,4.6,2.8,Medium,Entrepreneurship,FALSE,9.2,12.88,0.031,8.524,15,3.874,24,High,1.48
+Assisting and Caring for Others,3.7,3.5,Low,Business Info Mgmt,FALSE,3.7,12.95,0.025,8.524,15,3.874,24,High,1.48
+Selling or Influencing Others,5,2.4,Medium,Entrepreneurship,TRUE,10,12,0.034,8.524,15,3.874,24,High,1.48
+Resolving Conflicts and Negotiating with Others,3.3,4.2,Medium,Entrepreneurship,TRUE,6.6,13.86,0.022,8.524,15,3.874,24,High,1.48
+Guiding Directing and Motivating Subordinates,3.5,2.5,Medium,Entrepreneurship,FALSE,7,8.75,0.024,8.524,15,3.874,24,High,1.48
+Training and Teaching Others,3.9,3.2,High,Business Info Mgmt,FALSE,11.7,12.48,0.026,8.524,15,3.874,24,High,1.48
+Coaching and Developing Others,2.3,2,Medium,Leadership Ops,TRUE,4.6,4.6,0.016,8.524,15,3.874,24,High,1.48
+Managing Staff or Managing a Department,3.1,4.8,Medium,Leadership Ops,TRUE,6.2,14.88,0.021,8.524,15,3.874,24,High,1.48
+Advising,3.9,4.1,High,Entrepreneurship,TRUE,11.7,15.99,0.026,8.524,15,3.874,24,High,1.48
+Performing for or Working Directly with the Public,3.2,3.7,High,Entrepreneurship,TRUE,9.6,11.84,0.022,8.524,15,3.874,24,High,1.48
+Executing Determinations and Sentences,5,2.8,Medium,Business Info Mgmt,TRUE,10,14,0.034,8.524,15,3.874,24,High,1.48
+Organizing Planning and Prioritizing Work,2.2,5,High,Entrepreneurship,FALSE,6.6,11,0.015,8.524,15,3.874,24,High,1.48
+Developing Objectives and Strategies,3.9,3.9,High,Entrepreneurship,TRUE,11.7,15.21,0.026,8.524,15,3.874,24,High,1.48
+DocumentingRecording Information,3.9,5,High,Regulation,TRUE,11.7,19.5,0.026,8.524,15,3.874,24,High,1.48
+Interacting With Computers,2.4,4.3,High,Business Info Mgmt,FALSE,7.2,10.32,0.016,8.524,15,3.874,24,High,1.48
+Monitor and Control Resources,2.8,3.1,Medium,Entrepreneurship,TRUE,5.6,8.68,0.019,8.524,15,3.874,24,High,1.48
+Controlling Machines and Processes,4.1,3.7,Low,Regulation,FALSE,4.1,15.17,0.028,8.524,15,3.874,24,High,1.48
+Repairing and Maintaining Mechanical Equipment,3.2,2,Low,Business Info Mgmt,FALSE,3.2,6.4,0.022,8.524,15,3.874,24,High,1.48
+Analyzing Data or Information,4.3,1.4,High,Business Info Mgmt,TRUE,12.9,6.02,0.029,8.524,15,3.874,24,High,1.48
