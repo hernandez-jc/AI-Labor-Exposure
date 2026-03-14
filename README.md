@@ -50,9 +50,9 @@ Computational Economics: O*NET 27.3 → AI Automation Exposure Modeling. 3,040 t
 🧠 COMPUTATIONAL ECONOMIST SKILLS MATRIX
 | Expertise              | Demonstration                          | Market Value  | Clients          |
 | ---------------------- | -------------------------------------- | ------------- | ---------------- |
-| AI Dataset Engineering | 3,040-record O*NET w/ 12 ML labels     | $140-180k+    | FAANG Research   |
-| Labor Economics        | O*NET 27.3 + Pew AI classifications    | Government    | FED/BLS/McKinsey |
-| Feature Engineering    | AI_Risk_Score™, Future_Proof_Score™    | ML Essential  | Deloitte/BCG     |
+| AI Dataset Engineering | 3,040-record O*NET w/ 12 ML labels     | $140-180k+    | Research   |
+| Labor Economics        | O*NET 27.3 +  AI classifications    | Government       | Planning |
+| Feature Engineering    | AI_Risk_Score™, Future_Proof_Score™    | ML Essential  | Auditing     |
 | Computational Pipeline | Python → Production CSV (reproducible) | Data Engineer | World Bank       |
 | BI & Clustering        | Management/Entrepreneurship analysis   | BI Analyst    | Fortune 500      |
 | MLOps Readiness        | Sklearn/XGBoost/TensorFlow ready       | ML Operations | Unicorn Startups |
@@ -63,7 +63,7 @@ O*NET 27.3 →  AI Exposure → ML Feature Engineering → Labor Policy
     ┌─────────────────┐     ┌──────────────────┐     ┌─────────────────┐
     │ 1. Task Data    │────▶│ 2. AI Exposure   │────▶│ 3. ML Features  │
     │ Extraction      │     │ Classification   │     │ Engineering     │
-    │ (80 Occupations)│     │ (Pew Research)   │     │ (12 Targets)    │
+    │ (80 Occupations)│     │                  │     │ (12 Targets)    │
     └─────────────────┘     └──────────────────┘     └─────────────────┘
             │                        │                        │
     ┌─────────────────┐     ┌──────────────────┐     ┌─────────────────┐
@@ -80,7 +80,7 @@ Occupation aggregates → Workforce planning dashboards
 
 🎯 TARGET CLIENTS (ENTERPRISE + ACADEMIA)
 🏛️ FEDERAL RESERVE/BLS (labor market modeling)
-🏢 McKINSEY/DELOITTE (workforce strategy)
+🏢 Auditing / Consulting (workforce strategy)
 🎓 UNIVERSITIES (comp social science)
 💰 HEDGE FUNDS (automation alpha signals)
 🏭 FORTUNE 500 (reskilling ROI)
@@ -89,7 +89,7 @@ Occupation aggregates → Workforce planning dashboards
 
 🏠 Home | 🔬 Methodology | 📊 Datasets | 🧠 Skills | 💼 Impact | 🚀 Hiring
 © 2026 Juan Carlos Hernandez | Computational Economist
-O*NET → AI Labor Economics | $180k+ Research Portfolios
+AI Labor Economics | $180k+ Research Portfolios
 
 
 
