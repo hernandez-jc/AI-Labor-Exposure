@@ -79,10 +79,15 @@ Management clusters → Targeted upskilling programs
 Occupation aggregates → Workforce planning dashboards
 
 🎯 TARGET CLIENTS (ENTERPRISE + ACADEMIA)
+
 🏛️ FEDERAL RESERVE/BLS (labor market modeling)
+
 🏢 Auditing / Consulting (workforce strategy)
+
 🎓 UNIVERSITIES (comp social science)
+
 💰 HEDGE FUNDS (automation alpha signals)
+
 🏭 FORTUNE 500 (reskilling ROI)
 
 📖 Full Research → Enterprise Wiki
